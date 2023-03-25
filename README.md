@@ -3,3 +3,4 @@
 - Another one: saxenism
 - Another one: SergioMazariego
 - Another one: luloxi
+- Another one: chirag-bgh
